@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../autorization_grpc/.idea/autorization_grpc.iml" filepath="$PROJECT_DIR$/../autorization_grpc/.idea/autorization_grpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/proto_grpc.iml" filepath="$PROJECT_DIR$/.idea/proto_grpc.iml" />
     </modules>
   </component>
